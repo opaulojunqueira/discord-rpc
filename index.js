@@ -22,4 +22,4 @@ client.on('ready', () => {
     })
 })
 
-client.login({ clientId: "ApplicationID" }).catch(console.error); // Enter the ID of your created Application here
+client.login({ clientId: "Application ID Here" }).catch(console.error); // Enter the ID of your created Application here
