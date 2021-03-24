@@ -4,7 +4,7 @@ Discord RPC with Buttons for your Discord Status.
 ---
 Install the required dependency presented in the **package.json** file
 ```
-npm i discord-rpc
+npm i
 ```
 Modify the commented information in the **index.js** file
 
