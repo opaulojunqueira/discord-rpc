@@ -13,4 +13,4 @@ Before downloading the project, create a new application at <a href="https://dis
 Send the image that will be visible to your status in `Rich Presence > Art Assets` <br/>
 - Use `node index.js` to start.
 
-<img height="250" src="https://i.imgur.com/SSVY4b3.png"/>
+<img height="250" src="https://i.imgur.com/YqJd1N7.png"/>
