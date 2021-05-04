@@ -13,4 +13,4 @@ b!play <name_music|link_music> // To tell the bot to play a certain song.
 b!token // To receive your panel access TOKEN
 ```
 
-<img height="250" src="https://i.imgur.com/cKRdZ6N.png"/>
+<img height="50" src="https://i.imgur.com/cKRdZ6N.png"/>
