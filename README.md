@@ -8,8 +8,11 @@ This project makes a connection with the exclusive api of a Discord music bot, t
 - Click the "+" button to add the bot to your server.
  <img height="250" src="https://i.imgur.com/PaT4jAU.png"/>
 - Use the commands:</br>
+
 ```
 b!play <name_music|link_music> // To tell the bot to play a certain song.
+```
+```
 b!token // To receive your panel access TOKEN
 ```
 
